@@ -101,8 +101,8 @@ android {
 
 dependencies {
 //    implementation files('C:\\src\\flutter\\bin\\cache\\artifacts\\engine\\android-x86\\flutter.jar')
-    implementation "com.mapbox.navigationcore:navigation-ndk27:3.11.0"
-    implementation "com.mapbox.navigationcore:ui-components-ndk27:3.11.0"
+    // implementation "com.mapbox.navigationcore:navigation-ndk27:3.11.0"
+    // implementation "com.mapbox.navigationcore:ui-components-ndk27:3.11.0"
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 
